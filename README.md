@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 
 ## 📊 GitHub Stats:
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=pinkeshroy&show_icons=true&theme=radical" />
   <br/>
   <img src="https://streak-stats.demolab.com/?user=pinkeshroy&theme=radical" />
