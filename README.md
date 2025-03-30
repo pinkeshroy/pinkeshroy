@@ -32,7 +32,6 @@ Here are some ideas to get you started:
 
 🔭 I’m currently working as a Full Stack Developer at **Priyam Innovations**  
 🌱 I’m expanding my skills in **AWS, Docker, and scalable app architecture**  
-👨‍💻 All of my projects are available at [https://pinkeshkumar.in](https://pinkeshkumar.in)  
 📫 Reach me at: **pinkeshyadav9661@gmail.com**
 
 ---
